@@ -1,0 +1,22 @@
+# Exclude large datasets from GitHub (App only needs best.pt!)
+Train-Data/
+Validation-Data/
+Test-Data/
+data/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Optional local temp files
+output/
+Project_Report.md
+Instructions.md
+
+# Ignore the locked obsolete folder
+blood-cell-streamlit/

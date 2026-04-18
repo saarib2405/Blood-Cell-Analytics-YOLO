@@ -1,0 +1,10 @@
+path: c:/Users/saari/Downloads/Deep-Learning-Project
+train: Train-Data/images
+val: Validation-Data/images
+test: Test-Data/images
+
+nc: 3
+names:
+  0: Platelets
+  1: RBC
+  2: WBC
