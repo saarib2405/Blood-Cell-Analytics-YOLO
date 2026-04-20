@@ -1,11 +1,10 @@
---extra-index-url https://download.pytorch.org/whl/cpu
-torch>=2.0.0
-torchvision
-ultralytics
-streamlit
-opencv-python-headless
-matplotlib
-reportlab
-pillow
-numpy
-pandas
+ultralytics==8.4.38
+streamlit==1.56.0
+opencv-python-headless==4.13.0.92
+matplotlib==3.10.8
+reportlab==4.4.10
+pillow==12.1.1
+numpy==2.4.3
+pandas==3.0.0
+torch==2.3.1
+torchvision==0.18.1
